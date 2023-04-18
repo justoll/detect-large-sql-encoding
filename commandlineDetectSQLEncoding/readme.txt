@@ -1,0 +1,10 @@
+----- Linux  -----
+[first, create and install libDetectSQLEncoding. libDetectSQLEncoding.so has to be in this directory or installed to system. The ICU-libs in ./icu/lib have to be copied to /usr/local/lib]
+
+make clean
+make 
+
+-> creates binary detectSQLEncoding
+
+----- Windows -----
+Use Visual Studio file in ../VisualStudioDetectSQLEncoding/DetectSQLEncoding.sln
