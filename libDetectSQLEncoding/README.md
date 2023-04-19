@@ -1,6 +1,5 @@
 ----- Linux  -----
 
--- Ubuntu --
 
     sudo ldconfig
     [add line] /usr/local/lib
