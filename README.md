@@ -17,5 +17,4 @@ You need the tool "enca" installed from https://github.com/nijel/enca. Install i
     make check
     make install
 
-Then continue with the Readme.md-files in the subdirectories
-You will need libDetectSQLEncoding as a basis for the standalone and Python version
+Then continue with the Readme.md-files in the subdirectories. You will need libDetectSQLEncoding as a basis for the standalone and Python version
